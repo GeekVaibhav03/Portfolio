@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#top-bar{
+    background-color: #dddada;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#main-pic{
+    padding: 2px;
+    border: 1px solid black;
+}
+.para-heading{
+    text-align: center;
+}
+
